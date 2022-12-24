@@ -1,16 +1,13 @@
-# SRK Portfolio Website
+# Starbucks Portfolio Website
 
 Click on the link below for live preview of the project
-### [SRK Portfolio Live Preview](https://srk70900portfolio.netlify.app/)
+### [Starbucks Live Preview](https://srk70900starbucks.netlify.app/)
 
-### SRK Portfolio Screenshot 1
-![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(15).png)
+### Starbucks Screenshot 1
+![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot%20(18).png)
 
-### SRK Portfolio Screenshot 2
-![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(16).png)
-
-### SRK Portfolio Screenshot 3
-![SRK70900](https://github.com/SRK70900/PersonalPortfolio/blob/master/Screenshot%20(17).png)
+### Starbucks Screenshot 2
+![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot%20(19).png)
 
 ## Introduction
 
