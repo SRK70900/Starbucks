@@ -1,9 +1,11 @@
 # Starbucks Landing Page
 
 Click the link below for live preview of the project
-### [Live Preview](https://srk70900starbucks.netlify.app/)
+### [Starbucks Live Preview](https://srk70900starbucks.netlify.app/)
 
-![SRK70900 Landing Page](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
+![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
+
+![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
 
 ## Introduction
 
