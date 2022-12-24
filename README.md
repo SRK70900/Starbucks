@@ -5,7 +5,7 @@ Click the link below for live preview of the project
 
 ![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
 
-![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
+![SRK70900](https://github.com/SRK70900/starbucks/blob/master/Screenshot(19).png)
 
 ## Introduction
 
