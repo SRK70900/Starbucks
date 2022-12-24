@@ -1,7 +1,6 @@
 # SRK70900 Landing Page
 
 Click here for
-
 ### [Live Preview](https://srk70900starbucks.netlify.app/)
 
 ![SRK70900 Landing Page](https://github.com/SRK70900/starbucks/blob/master/Screenshot.png)
